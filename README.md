@@ -1,5 +1,5 @@
 # Burning Witches Website
-The band website for Burning Witches 🧙🏾‍♀️ This was the very first proper website I built 2 years ago and I found it again to upload it onto my GitHub! Burning Witches were my favourite band back then so I decided to dedicate a project to them! 🤗
+The band website for Burning Witches 🧙🏾‍♀️ This was the very first proper website I built a year ago and I found it again to upload it onto my GitHub! Burning Witches were my favourite band back then so I decided to dedicate a project to them! 🤗
 
 ## About the project 🤩
 There are three pages: Home, Store and About. 
